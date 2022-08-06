@@ -1,1 +1,2 @@
 This is my first GitHub repo file
+Today's date is August 7
